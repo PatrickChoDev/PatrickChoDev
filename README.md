@@ -11,4 +11,4 @@ Here are some ideas to get you started: -->
 - ⚡ Fun fact: I still don't know what cause those bugs. :cry:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PatrickChoDev&theme=dark&layout=compact)
-![My github stats](https://github-readme-stats.vercel.app/api?username=PatrickChoDev&show_icons=true&theme=dark)
+<!-- ![My github stats](https://github-readme-stats.vercel.app/api?username=PatrickChoDev&show_icons=true&theme=dark) -->
