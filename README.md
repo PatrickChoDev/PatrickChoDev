@@ -10,5 +10,7 @@ Here are some ideas to get you started: -->
 - 📫 How to reach me: [devpatrick.cho@gmail.com](mailto:devpatrick.cho@gmail.com)
 - ⚡ Fun fact: I still don't know what cause those bugs. :cry:
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PatrickChoDev&theme=dark&layout=compact)
+#### I prefer to Gitlab for my OSS. Let's Check [PatrickChoDev](https://gitlab.com/PatrickChoDev) on Gitlab
+
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PatrickChoDev&theme=dark&layout=compact) -->
 <!-- ![My github stats](https://github-readme-stats.vercel.app/api?username=PatrickChoDev&show_icons=true&theme=dark) -->
